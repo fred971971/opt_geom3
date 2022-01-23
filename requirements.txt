@@ -1,0 +1,2 @@
+CPython==3.6.3
+IPython==6.1.0
