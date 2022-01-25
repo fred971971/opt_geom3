@@ -1,4 +1,4 @@
 CPython==0.0.6
-IPython==6.1.0
+IPython==7.23.1
 matplotlib==2.1.0
-numpy
+numpy==1.13.3
