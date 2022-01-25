@@ -1,4 +1,4 @@
 CPython==0.0.6
 IPython==6.1.0
-matplotli==2.1.0
+matplotlib==2.1.0
 numpy
