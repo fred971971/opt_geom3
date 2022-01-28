@@ -1,3 +1,5 @@
-CPython==0.0.6
-IPython==7.23.1
-matplotlib==2.1.0
+jupyterlab>=1.0
+ipywidgets==7.6.5
+matplotlib==3.5.0
+numpy==1.21.4
+ipython
